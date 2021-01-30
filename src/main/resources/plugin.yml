@@ -1,0 +1,6 @@
+name: WakeShow
+version: ${project.version}
+main: me.wuxie.wakeshow.wakeshow.WakeShow
+authors: [wuxie]
+commands:
+  wakeshow:
